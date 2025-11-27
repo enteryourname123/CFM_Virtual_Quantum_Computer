@@ -203,7 +203,7 @@ Both together form a **complete scientific + legal foundation** for the CFM/VQC 
 
 When referencing the technical work:
 
-> Smrčka, R. (2025). *CFM Virtual Quantum Computer – Technical Repository.* GitHub.
+> Enter Yourname. (2025). *CFM Virtual Quantum Computer – Technical Repository.* GitHub.
 
 ---
 
