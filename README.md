@@ -92,7 +92,7 @@ Formal legal license may be added later.
 
 When referencing this work:
 
-> Smrčka, R. (2025). *Canister Field Mathematics & Virtual Quantum Computer – Prior Art Repository.* GitHub.
+> Enter Yourname. (2025). *Canister Field Mathematics & Virtual Quantum Computer – Prior Art Repository.* GitHub.
 
 A cryptographic hash of each document may also be used as a stable reference.
 
