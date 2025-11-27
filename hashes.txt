@@ -1,0 +1,45 @@
+# SHA-256 Hashes for CFM™ Proof & Technical Documents
+# Generated automatically from original files (2025-11-27)
+
+## Repository: CFM_Virtual_Quantum_Computer
+
+Canister Field Mathematics.odt
+SHA256: ca00e128c3d7344323959bdc02c370659bdb89f29149357ad7d585f03e534e53
+
+Canister Field Processor.odt
+SHA256: 5d0ea30730f40b61b380770555a93923f2e5445d17fd0cd6dae55bf9fef45e0b
+
+From Canister Fields to Quantum-Inspired Computation.odt
+SHA256: d6fa1c6ae7148c320218ed1e5cde5a874f927cc8989e11632b1a701be4864be3
+
+Virtual Quantum Computer.odt
+SHA256: c5e18a9888fadd5e067fffb81a88ab428aebfb1501d6b2d53e86ade525f76e9e
+
+Virtuální kvantový počítač.odt
+SHA256: 52ada9bfa3246a61736aac26f4a7717d0ce770881b3204034d00c477add1a042
+
+1A.odt
+SHA256: 3acc72ee3ffcfdc41b6478707d23fe5c6e9ba55ad0ecac4810f8700545351c32
+
+Canistr-Based CPU Architecture.odt
+SHA256: 8a12bd769844e2a24a679a16192b4ac6cadb72f04b7104c486a244cd8c9b8e69
+
+
+
+## Repository: Canister-Field-Mathematics-Proof
+
+priority_note_canister_field_v2_EnterYourname.pdf
+SHA256: 6d0e86da8ee36ea4c5b24883e3abe811d508e9cd04e0026c32a345ec2de9cfa0
+
+CFM_Proof_Certificate.pdf
+SHA256: aefbe5e0cda2477364bb0d58164105fdeaf24e3d96f979be153cf631c74f6c18
+
+canister_cpu_patent.pdf
+SHA256: 1b784457b3d79a81fd13d8a452ba3f868d0509c896339cb96b3432551af09779
+
+
+-----------------------------------------------------------
+Generated on: 2025-11-27
+Author: Roman Smrčka
+Purpose: Legal Integrity / Prior Art Validation
+-----------------------------------------------------------
