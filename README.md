@@ -224,3 +224,5 @@ This repository forms the **research foundation** for constructing the first
 **quantum-inspired computational substrate** built entirely from canister fields on the Internet Computer.  
 It represents the bridge between **classical**, **quantum**, and **post-classical** computing.
 
+autor: Enter Yorname
+
