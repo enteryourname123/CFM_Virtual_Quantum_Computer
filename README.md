@@ -109,3 +109,118 @@ This repository will grow with further documents such as:
 - Priority Proof Package  
 
 All additions should be timestamped through GitHub commits for maximum legal strength.
+
+# CFM™ Virtual Quantum Computer  
+## Technical Architecture, Research Documents & Computational Framework
+
+This repository contains the **technical body of work** behind:
+
+- **Canister Field Mathematics (CFM™)**
+- **The Virtual Quantum Computer (VQC)**
+- **Quantum-Inspired computational models implemented on ICP**
+- **Canister Field Processor (CFP) architectures**
+
+This is the **technical companion** to the legal proof repository  
+**`Canister-Field-Mathematics-Proof`**.
+
+---
+
+## 📁 Repository Contents
+
+### **1. Canister Field Processor (CFP)**
+- **`Canister Field Processor.odt`**  
+  Core description of a processor built from canisters instead of transistors.  
+  Includes:
+  - field-based computation  
+  - local interactions  
+  - register-like behavior in multi-canister systems  
+  - fundamental operations & scaling rules  
+
+---
+
+### **2. From Canister Fields to Quantum-Inspired Computation**
+- **`From Canister Fields to Quantum-Inspired Co… .odt`**  
+  Details the mapping between CFM and:
+  - qubit analogues  
+  - field superpositions  
+  - Hamiltonian-like evolution  
+  - gate operations through canister interactions  
+  - emergent “quasi-quantum” behavior within the ICP runtime  
+
+---
+
+### **3. Virtual Quantum Computer (VQC)**
+- **`Virtual Quantum Computer.odt`**  
+  Complete conceptual architecture for implementing a fully virtual quantum machine on ICP:
+  - CFM registers  
+  - virtual superposition  
+  - state evolution  
+  - VQC gate library  
+  - scaling to many-canister fabrics  
+  - comparison to classical HPC & real quantum hardware  
+
+---
+
+### **4. Early Czech Draft**
+- **`Virtuální kvantový počítač.odt`**  
+  Original Czech version of early ideas.  
+  Preserved for historical development traceability.
+
+---
+
+## 🧠 Technical Goal of This Repository
+
+This repo will evolve into the **core research and implementation resource** for:
+
+- CFM mathematical definitions  
+- protocol specifications  
+- pseudocode implementations  
+- diagrams  
+- whitepapers (chapters 0–20+)  
+- Virtual Quantum Machine (VQM) prototype  
+- simulation models  
+- code for ICP canisters  
+- cluster interaction and state evolution models  
+
+---
+
+## 🔗 Relationship to Prior Art Repository
+
+This repo provides **the technical content**, while the second repository  
+**`Canister-Field-Mathematics-Proof`** contains:
+
+- legal proof  
+- timestamps  
+- hashes  
+- priority notes  
+- licensing framework
+
+Both together form a **complete scientific + legal foundation** for the CFM/VQC model.
+
+---
+
+## 📌 Citation
+
+When referencing the technical work:
+
+> Smrčka, R. (2025). *CFM Virtual Quantum Computer – Technical Repository.* GitHub.
+
+---
+
+## 🛠️ Future Additions
+
+- full whitepaper PDF  
+- reference implementation of a small VQC on ICP  
+- diagrams of register interactions  
+- mathematical formalization  
+- benchmark models  
+- simulation of Hamiltonian dynamics on CFM clusters  
+
+---
+
+## 🚀 Vision
+
+This repository forms the **research foundation** for constructing the first  
+**quantum-inspired computational substrate** built entirely from canister fields on the Internet Computer.  
+It represents the bridge between **classical**, **quantum**, and **post-classical** computing.
+
