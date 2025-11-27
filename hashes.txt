@@ -40,6 +40,7 @@ SHA256: 1b784457b3d79a81fd13d8a452ba3f868d0509c896339cb96b3432551af09779
 
 -----------------------------------------------------------
 Generated on: 2025-11-27
-Author: Roman Smrčka
+Author: Enter Yourname
 Purpose: Legal Integrity / Prior Art Validation
 -----------------------------------------------------------
+
